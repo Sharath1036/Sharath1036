@@ -1,5 +1,6 @@
+<img src= "https://www.freepik.com/premium-vector/artificial-intelligence-technology-facebook-cover_41604813.htm#query=artificial%20intelligence%20banner&position=42&from_view=search&track=ais&uuid=7f506061-94f5-4f40-a841-2fae6d920ca7">
 
-## <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
+<h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
 <h3 align="center">Data Scientist</h3>
 
