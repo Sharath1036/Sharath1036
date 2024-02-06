@@ -2,7 +2,7 @@
 
 <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
-<h3 align="center">Artificial Intelligence Engineer</h3>
+<h3 align="center">AI Engineer | Django Developer</h3>
 
 <p align='center'>
   <a href='mailto:sharathpai107@gmail.com' target="_blank">
@@ -32,7 +32,7 @@
 
 I'm an AI Engineer with a passion towards Deep Learning and Natural Language Processing and working with research projects on these domains. I have previously worked with a lot of Data Analytics projects with a strong foundation of Machine Learning algorithms and Data Analytics with proficiency in Python, R, SQL, Tableau. In future, I would like to learn about Computer Vision and Big Data Analytics.
 
-I previously worked as a Web Developer and UI/UX Designer where I created web/app design wireframes and prototypes and built websites. These fields now serve as my secondary interest and I'd love to expand my knowledge further in Django development.
+I also worked as a Web Developer and UI/UX Designer where I created web/app design wireframes and prototypes and built websites. These fields now serve as my secondary interest with the main tech stacks being Django, React, SQL and Figma.
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering graduating in May 2024.
 
@@ -49,14 +49,15 @@ Feel free to reach out to me through any of my social handles mentioned!
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="40" height="40"/></a> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> &nbsp;
-<img src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="express" width="40" height="40"/>&nbsp;
+<!-- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> &nbsp; -->
+<!-- <img src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="express" width="40" height="40"/>&nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=handlebars&sort="><img src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" alt="handlebars" width="40" height="40"/></a> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp; -->
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp;  
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp;  
 <!-- <img src="https://img.icons8.com/color/48/numpy.png" alt="numpy" width="40" height="40"/> &nbsp; 
 <img src="https://img.icons8.com/color/48/pandas.png" alt="pandas" width="40" height="40"/> &nbsp; -->
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> &nbsp;
+<!-- <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> &nbsp; -->
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;
   
 <br>
