@@ -30,11 +30,11 @@
     ABOUT ME
 </h2>
 
-I'm an AI Engineer with a passion towards Deep Learning and Natural Language Processing and working with research projects on these domains. I have previously worked with a lot of Data Analytics projects with a strong foundation of Machine Learning algorithms and Data Analytics with proficiency in Python, R, SQL, Tableau. In future, I would like to learn about Computer Vision and Big Data Analytics.
+I'm an AI enthusiast with a focus towards Machine Learning, Deep Learning and Computer Vision and working with research projects on these domains. I have previously worked with a lot of Machine Learning and Analytics projects with proficiency in Python, R, SQL, Tableau. In future, I would like to learn about NLP and Big Data Analytics.
 
-I also worked as a Web Developer and UI/UX Designer where I created web/app design wireframes and prototypes and built websites. These fields now serve as my secondary interest with the main tech stacks being Django, React, SQL and Figma.
+Additionally, I possess skills in Web Developement using Django and React as my main tech stacks with SQLite as a database. In Django, I utlise the MVT architecture for developing the backend of a website and also use it to create applications out of ML models and React for designing the frontend. I also worked with UI/UX Design in Figma where I created frontend designs, wireframes and prototypes.
 
-I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering graduating in May 2024.
+I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering graduating in June 2024.
 
 Feel free to reach out to me through any of my social handles mentioned!
 
@@ -53,11 +53,12 @@ Feel free to reach out to me through any of my social handles mentioned!
 <!-- <img src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="express" width="40" height="40"/>&nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=handlebars&sort="><img src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" alt="handlebars" width="40" height="40"/></a> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp; -->
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp;  
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-django-1-282754.png?f=webp&w=256" alt="mongodb" width="40" height="40"/> &nbsp;  
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp;  
 <!-- <img src="https://img.icons8.com/color/48/numpy.png" alt="numpy" width="40" height="40"/> &nbsp; 
 <img src="https://img.icons8.com/color/48/pandas.png" alt="pandas" width="40" height="40"/> &nbsp; -->
 <!-- <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> &nbsp; -->
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;
   
 <br>
