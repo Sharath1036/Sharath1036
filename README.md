@@ -32,7 +32,7 @@
 
 I'm an AI enthusiast with a focus towards Machine Learning, Deep Learning and Computer Vision and working with research projects on these domains. I have previously worked with a lot of Machine Learning and Analytics projects with proficiency in Python, R, SQL, Tableau. In future, I would like to learn about NLP and Big Data Analytics.
 
-Additionally, I possess skills in Web Developement using Django and React as my main tech stacks with SQLite as a database. In Django, I utlise the MVT architecture for developing the backend of a website and also use it to create applications out of ML models and React for designing the frontend. I also worked with UI/UX Design in Figma where I created frontend designs, wireframes and prototypes.
+Additionally, I possess skills in Web Developement with Django (integration of AI models and server side scripting, database integration) and React (creation of dynamic frontend componentns) as my main tech stacks and I also worked with UI/UX Design in Figma where I created frontend designs, wireframes and prototypes.
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering graduating in June 2024.
 
