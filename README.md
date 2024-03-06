@@ -1,8 +1,8 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+<img src= "https://github.com/Sharath1036/Sharath1036/assets/83855796/ef01a6e7-cb94-410c-8d1f-b8c70f9bc8df" width="100%">
 
 <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
-<h3 align="center">AI Engineer | Django Developer</h3>
+<h3 align="center">Full Stack AI Engineer</h3>
 
 <p align='center'>
   <a href='mailto:sharathpai107@gmail.com' target="_blank">
@@ -32,7 +32,7 @@
 
 I'm an AI enthusiast with a focus towards Machine Learning, Deep Learning and Computer Vision and working with research projects on these domains. I have previously worked with a lot of Machine Learning and Analytics projects with proficiency in Python, R, SQL, Tableau. In future, I would like to learn about NLP and Big Data Analytics.
 
-Additionally, I possess skills in Web Developement with Django (integration of AI models and server side scripting, database integration) and React (creation of dynamic frontend componentns) as my main tech stacks and I also worked with UI/UX Design in Figma where I created frontend designs, wireframes and prototypes.
+Additionally, I possess skills in Web Developement with Django (integration of AI models and server side scripting, database integration) and React (creation of dynamic frontend components) as my main tech stacks and I also worked with UI/UX Design in Figma where I created frontend designs, wireframes and prototypes.
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering graduating in June 2024.
 
