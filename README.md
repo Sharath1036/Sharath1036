@@ -2,7 +2,7 @@
 
 <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
-<h3 align="center">Full Stack AI Engineer</h3>
+<h3 align="center">Artificial Intelligence Engineer</h3>
 
 <p align='center'>
   <a href='mailto:sharathpai107@gmail.com' target="_blank">
