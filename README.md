@@ -30,11 +30,11 @@
     ABOUT ME
 </h2>
 
-I'm an AI enthusiast with a focus towards Machine Learning, Deep Learning and Computer Vision and working with research projects on these domains. I have previously worked with a lot of Machine Learning and Analytics projects with proficiency in Python, R, SQL, Tableau. In future, I would like to learn about NLP and Big Data Analytics.
+I'm an AI Engineer with an inclination towards Machine Learning, Deep Learning, Natural Language Processing and Generative AI primarily focusing on text data. My tech stacks include Python, R, Tensorflow, spaCy, LangChain, Llama 3, Vector Databases and Streamlit. In future, I would like to work on image, video and speech data.
 
-Additionally, I possess skills in Web Developement with Django (integration of AI models and server side scripting, database integration) and React (creation of dynamic frontend components) as my main tech stacks and I also worked with UI/UX Design in Figma where I created frontend designs, wireframes and prototypes.
+Additionally, I possess skills in Web Developement with Django (integration of AI models and server side scripting, database integration) and ReactJS (creation of dynamic frontend components) as my main tech stacks and I also worked with UI/UX Design in Figma where I created frontend designs, wireframes and prototypes.
 
-I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering graduating in June 2024.
+I graduated with a BTech in Electronics and Communication from D.J. Sanghvi College of Engineering in June 2024.
 
 Feel free to reach out to me through any of my social handles mentioned!
 
