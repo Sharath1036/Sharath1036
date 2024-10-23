@@ -2,7 +2,7 @@
 
 <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
-<h3 align="center">Artificial Intelligence Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align='center'>
   <a href='mailto:sharathpai107@gmail.com' target="_blank">
@@ -30,7 +30,7 @@
     ABOUT ME
 </h2>
 
-I'm an AI Engineer with an inclination towards Machine Learning, Deep Learning, Natural Language Processing and Generative AI primarily focusing on text data. My tech stacks include Python, R, Tensorflow, spaCy, LangChain, Llama 3, Vector Databases and Streamlit. In future, I would like to work on image, video and speech data.
+I'm a currently working as a Software Engineer specializing in LLMs at Salk AI. My inclination lies towards Generative AI and Natural Language Processing where I'm constantly exploring various models that can be integrated into applications.
 
 Additionally, I possess skills in Web Developement with Django (integration of AI models and server side scripting, database integration) and ReactJS (creation of dynamic frontend components) as my main tech stacks and I also worked with UI/UX Design in Figma where I created frontend designs, wireframes and prototypes.
 
