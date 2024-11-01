@@ -30,9 +30,9 @@
     ABOUT ME
 </h2>
 
-I'm a currently working as a Software Engineer specializing in LLMs at Salk AI. My inclination lies towards Generative AI and Natural Language Processing where I'm constantly exploring various models that can be integrated into applications.
+I'm a currently working as a Software Engineer, LLMs at Salk AI. My inclination lies towards Generative AI and Natural Language Processing where I'm constantly researching about advancements in these fields to be used while building products.
 
-Additionally, I possess skills in Web Developement with Django (integration of AI models and server side scripting, database integration) and ReactJS (creation of dynamic frontend components) as my main tech stacks and I also worked with UI/UX Design in Figma where I created frontend designs, wireframes and prototypes.
+I've previously worked as a Developer and UI/UX Designer too and helped organizations upscale their business using the relevant tech stacks. I'm not actively working on these fields but can get back into it when required
 
 I graduated with a BTech in Electronics and Communication from D.J. Sanghvi College of Engineering in June 2024.
 
