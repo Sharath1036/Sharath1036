@@ -25,7 +25,7 @@
     ABOUT ME
 </h2>
 
-I'm a currently working as a Software Engineer, LLMs at Salk AI. My inclination lies towards Generative AI, Deep Learning and Natural Language Processing where I constantly keep myself updated with the latest advancements in these fields.
+I'm a currently working as a Software Engineer, LLMs at Salk AI in India. My inclination lies towards Generative AI, Deep Learning and Natural Language Processing where I constantly keep myself updated with the latest advancements in these fields.
 
 I previously worked as a Machine Learning Engineer at Feynn Labs and Machine Learning Researcher at Avignon Université. 
 
@@ -44,14 +44,15 @@ Feel free to reach out to me through any of my social handles mentioned!
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp; -->
-<!-- <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-1-282754.png?f=webp&w=256" alt="mongodb" width="40" height="40"/> &nbsp;   -->
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-django-1-282754.png?f=webp&w=256" alt="django" width="40" height="40"/> &nbsp;
+<img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" alt="fastapi" width="40" height="40"/> &nbsp; 
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp;  
 <img src="https://seeklogo.com/images/D/docker-logo-9FF973197B-seeklogo.com.png" alt="docker" width="50" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> &nbsp;
+<img src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" alt="pytorch" width="32" height="40"/> &nbsp;
+<img src="https://media.tekpon.com/2023/02/spaCy-io-Logo.webp" alt="spacy" width="40" height="40"/> &nbsp;   
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> &nbsp;
-<img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" alt="fastapi" width="40" height="40"/> &nbsp; 
-<img src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" alt="pytorch" width="35" height="40"/> &nbsp; 
-<img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="huggingface" width="40" height="40"/> &nbsp;   
+<img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="huggingface" width="40" height="40"/> &nbsp;  
 <br>
 </p>
 
