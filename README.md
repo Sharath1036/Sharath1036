@@ -25,7 +25,7 @@
     ABOUT ME
 </h2>
 
-I'm a currently working as a Software Engineer, LLMs at Salk AI in India. My inclination lies towards Generative AI, Deep Learning and Natural Language Processing where I constantly keep myself updated with the latest advancements in these fields.
+I'm a currently working as a Software Engineer, LLMs at Salk AI in India. My inclination lies towards Generative AI, Deep Learning, Computer Vision and Natural Language Processing where I constantly keep myself updated with the latest advancements in these fields.
 
 I previously worked as a Machine Learning Engineer at Feynn Labs and Machine Learning Researcher at Avignon Université. 
 
