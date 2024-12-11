@@ -45,16 +45,19 @@ Feel free to reach out to me through any of my social handles mentioned!
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp; -->
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-1-282754.png?f=webp&w=256" alt="django" width="40" height="40"/> &nbsp;
-<img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" alt="fastapi" width="40" height="40"/> &nbsp; 
+<!-- <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" alt="fastapi" width="40" height="40"/> &nbsp;  -->
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp;  
-<img src="https://seeklogo.com/images/D/docker-logo-9FF973197B-seeklogo.com.png" alt="docker" width="50" height="40"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="60" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> &nbsp;
-<img src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" alt="pytorch" width="32" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> &nbsp;
 <img src="https://media.tekpon.com/2023/02/spaCy-io-Logo.webp" alt="spacy" width="40" height="40"/> &nbsp;   
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="huggingface" width="40" height="40"/> &nbsp;  
-<br>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> &nbsp;  
+
+  <br>
 </p>
+
 
 <h2 align = 'center'>
     GITHUB STATS &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-generator/main/github-cat.gif" width = 32px>
