@@ -54,6 +54,9 @@ Feel free to reach out to me through any of my social handles mentioned!
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="huggingface" width="40" height="40"/> &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> &nbsp;  
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="fedora" width="40" height="40"/> &nbsp;
 
   <br>
 </p>
