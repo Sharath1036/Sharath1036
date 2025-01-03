@@ -42,22 +42,24 @@ Feel free to reach out to me through any of my social handles mentioned!
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/></a> &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="40" height="40"/></a> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> &nbsp;  
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next" width="40" height="40"/> &nbsp;   
 <!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp; -->
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;  
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-1-282754.png?f=webp&w=256" alt="django" width="40" height="40"/> &nbsp;
-<!-- <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" alt="fastapi" width="40" height="40"/> &nbsp;  -->
+<!-- <img src="https://images.seeklogo.com/logo-png/42/1/fastapi-logo-png_seeklogo-425420.png?v=1957180728322319840" alt="fastapi" width="40" height="40"/> &nbsp;  -->
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp;  
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="60" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> &nbsp;
-<img src="https://media.tekpon.com/2023/02/spaCy-io-Logo.webp" alt="spacy" width="40" height="40"/> &nbsp;   
+<!-- <img src="https://media.tekpon.com/2023/02/spaCy-io-Logo.webp" alt="spacy" width="40" height="40"/> &nbsp;    -->
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="huggingface" width="40" height="40"/> &nbsp;  
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="huggingface" width="40" height="40"/> &nbsp;   -->
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="fedora" width="40" height="40"/> &nbsp;
-
   <br>
 </p>
 
