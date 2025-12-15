@@ -25,9 +25,9 @@
     ABOUT ME
 </h2>
 
-I'm currently working as a Software Engineer, LLMs at Salk AI in India. My inclination lies towards Generative AI, Deep Learning, Computer Vision and Natural Language Processing, where I constantly keep myself updated with the latest advancements in these fields and use FastAPI to build RESTful APIs for model deployment. Additionally, I sometimes develop Next.js applications for building production-ready interfaces that allow users to interact with AI/ML systems.
+I'm currently working as a LLM Engineer at Salk AI in India. My inclination lies towards Generative AI, Deep Learning, Computer Vision and Natural Language Processing, where I constantly keep myself updated with the latest advancements in these fields and use FastAPI to build RESTful APIs for model deployment. Additionally, I sometimes develop Next.js applications for building production-ready interfaces that allow users to interact with AI/ML systems.
 
-I previously worked as a Machine Learning Engineer at Feynn Labs and Machine Learning Researcher at Avignon Université. 
+I previously worked in Machine Learning Engineer and Research roles at Feynn Labs and at Avignon Université respectively. 
 
 I graduated with a BTech in Electronics and Communication from D.J. Sanghvi College of Engineering in June 2024.
 
